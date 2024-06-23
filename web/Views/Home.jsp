@@ -1561,7 +1561,7 @@
                     </div>
                 </div>
                 <div class="copyright">
-                    <p>© Copyright 2024 Bookly. HTML Template by <a href="https://templatesjungle.com/" target="_blank">TemplatesJungle</a>
+                    <p>© ccccCopyright 2024 Bookly. HTML Template by <a href="https://templatesjungle.com/" target="_blank">TemplatesJungle</a>
                     </p>
                 </div>
             </div>
